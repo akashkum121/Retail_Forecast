@@ -90,7 +90,7 @@ The application features:
 
 The landing page provides an overview of the Retail Demand Forecasting application.
 
-![Home Page](screenshots/home-page.png)
+![Home Page](https://github.com/akashkum121/Retail_Forecast/blob/master/Projecct%20%20screenshots/home-page.png)
 
 ---
 
