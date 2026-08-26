@@ -98,7 +98,7 @@ The landing page provides an overview of the Retail Demand Forecasting applicati
 
 The forecast page allows users to enter the required customer and product information and generate demand forecasts.
 
-![Forecast Page](screenshots/forecast-page.png)
+![Forecast Page](https://github.com/akashkum121/Retail_Forecast/blob/master/Projecct%20%20screenshots/forecast-page.png)
 
 ---
 
